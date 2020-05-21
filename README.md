@@ -3,7 +3,7 @@ A Cypher System framework for [MapTool](https://www.rptools.net).
 
 ## Requirements
 
-The Cypher System Framework requires [MapTool 1.7.0](https://github.com/RPTools/maptool/releases/tag/1.7.0)
+The Cypher System Framework requires [MapTool 1.7.0](https://github.com/RPTools/maptool/releases/tag/1.7.0).
 
 ## Features
 
