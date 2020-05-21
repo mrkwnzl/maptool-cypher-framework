@@ -1,6 +1,6 @@
 # MapTool Cypher System Framework
 
-A Cypher System framework for [MapTool](https://www.rptools.net).
+A [Cypher System](http://cypher-system.com) framework for [MapTool](https://www.rptools.net).
 
 ![Screen Shot](https://github.com/mrkwnzl/maptool-cypher-framework/blob/master/Screen%20Shot.png)
 
