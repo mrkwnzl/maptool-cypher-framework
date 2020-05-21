@@ -22,6 +22,6 @@ The Cypher System Framework requires [MapTool 1.7.0](https://github.com/RPTools/
 
 ### Map
 
-- Grid Area: All players get ownership of all PC tokens, while only the GM has ownership of NPC tokens.
-- Organisational Area: Outside the grid, all players and the GM have ownership of all tokens. This is intended for images, handouts, maps.
-- Player Areas: There are four small pages intended as player areas. Each player has one page of XP tokens, temporary equipments, and Cyphers.
+- **Grid Area:** All players get ownership of all PC tokens, while only the GM has ownership of NPC tokens.
+- **Organisational Area:** Outside the grid, all players and the GM have ownership of all tokens. This is intended for images, handouts, maps.
+- **Player Areas:** There are four small pages intended as player areas. Each player has one page of XP tokens, temporary equipments, and Cyphers.
