@@ -1,5 +1,5 @@
 # maptool-cypher-framework
-A Cypher System framework for MapTool
+A Cypher System framework for [MapTool](https://www.rptools.net).
 
 ## Requirements
 
