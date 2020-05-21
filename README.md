@@ -1,6 +1,8 @@
 # maptool-cypher-framework
 A Cypher System framework for [MapTool](https://www.rptools.net).
 
+![Screen Shot](https://github.com/mrkwnzl/maptool-cypher-framework/blob/master/Screen%20Shot%201.2.0.png)
+
 ## Requirements
 
 The Cypher System Framework requires [MapTool 1.7.0](https://github.com/RPTools/maptool/releases/tag/1.7.0).
