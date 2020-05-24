@@ -2,7 +2,7 @@
 
 A [Cypher System](http://cypher-system.com) framework for [MapTool](https://www.rptools.net). This project is also a playground for me to familiarize myself with GitHub. Expect some inconsistencies as I experiment.
 
-![Screen Shot](https://github.com/mrkwnzl/maptool-cypher-framework/blob/master/Screen%20Shot.png)
+![Screen Shot](https://github.com/mrkwnzl/maptool-cypher-framework/blob/master/Screen%20Shot.png?raw=true)
 
 ## Requirements
 
