@@ -19,6 +19,18 @@ The Cypher System Framework requires [MapTool 1.7.0](https://github.com/RPTools/
 
 - Dice Macros for stat rolls and generic d6, d10, d20, and d100 rolls. Quick stat rolls skip the difficulty modification.
 - Macros to quickly change states.
+- Macros for counters and automatic counting during initiative.
+
+### Token
+
+Introduces several token types:
+
+1. PCs: Those are for the player characters and have access to the full character sheet.
+2. NPCs: Those are for the non-player characters with NPC character sheets and health bars.
+3. Horde/Army: NPC hordes and armies with their respective sheets (from Numenera Destiny).
+4. Community: Tokens for communities with its own community sheet (from Numenera Destiny).
+5. Counter: Tokens as counters to tally ammo or the duration of effects. Counters can count automatically during the initiative.
+6. Marker: Markers are tokens for everything else. All players can control markers and there is no sheet attached.
 
 ### Map
 
